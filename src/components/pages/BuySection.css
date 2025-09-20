@@ -1,0 +1,91 @@
+.buy_section{
+    margin-top: 5.2em;
+}
+.buy_section .catagory_detail{
+    background-color: #F2F2F2;
+    padding: 1em; 
+}
+.buy_section .catagory_detail h1{
+    font-size: 2.2em;
+}
+.buy_section .product_details .product_details{
+    background-color: red;
+}
+.buy_section .product_details .img_box img{
+    
+    height: 20em; width: 100%; object-fit: cover;
+}
+
+.buy_section .product_details .details_box h2{
+    font-size: 1.5em;
+}
+.buy_section .product_details .details_box .discription{
+    font-size: 1em; color: rgb(145, 145, 145);
+} 
+.buy_section .product_details .details_box .ratings{
+    font-size: 0.85em;
+}
+.buy_section .product_details .price {
+  font-size: 1.4em;
+  font-weight: 600;
+  color: #2BB800;
+}
+.buy_section .product_details .prevprice {
+  font-size: 1em;
+  text-decoration: line-through;
+}
+.buy_section .product_details .save{
+    background-color: green; color: white; display: flex; align-items: center; justify-content: center;
+    border-radius: 25px; padding: 0.5em; width: 7em; font-weight: 500;
+}
+.buy_section .product_details .trust_box{
+    display: flex; gap: 0.5em ; 
+}
+.buy_section .product_details .trust_box div{
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    background-color: #EFEFEF; border: 1px dotted black; border-radius: 5px;
+    height: 6em; width: 9em; font-size: 1.1em; color: gray;
+    padding: 0.5;
+}
+.buy_section .product_details .trust_box div i{
+    font-size: 2em;
+}
+.buy_section .product_details .offer_box{
+    border: 1px solid gray; border-radius: 5px; padding: 1em;
+}
+.buy_section .product_details .offer_box span{
+  font-size: 1.05em; font-weight: 600; color: #E5A60B;
+}
+.buy_section .product_details .deliveryTime{
+    border: 1px solid gray; border-radius: 5px; padding: 0em 0.8em;
+    display: flex; align-items: center; width: fit-content;
+}
+.buy_section .product_details .deliveryTime i{
+    font-size: 1.8em;
+}
+.buy_section .product_details .quantity_box{
+    display: flex; align-items: center; gap: 1.5em;
+    width: fit-content; padding: 0em 1em; border-radius: 35px;
+}
+.buy_section .product_details .quantity_box span{
+    font-size: 1.1em;
+}
+.buy_section .product_details .quantity_box button{
+    font-size: 1.5em; padding: 0; border: none; background-color:white; font-weight: 600;
+}
+.buy_section .product_details .buttons{
+    display: flex; gap: 1em;
+}
+.buy_section .product_details .buttons button{
+    background-color: #01ADEF; border: none; padding: 0.3em 1.5em; color: white;
+    border-radius: 25px; font-size: 0.95em;
+}
+.buy_section .product_description h3{
+    font-size: 1.6em; font-weight: 400;
+}
+.buy_section .product_description ul{
+    list-style: disc; font-size: 1em; display: flex; flex-direction: column;
+}
+.buy_section .product_description ul li::marker{
+    font-size: 1.5em;  color: #01ADEF;
+}

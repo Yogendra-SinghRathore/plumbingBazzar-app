@@ -1,0 +1,37 @@
+.navbar_compo{
+
+}
+.navbar_compo .navbar{
+    background: white !important; padding: 0.5em 1em; 
+}
+.navbar_compo .container_box img{
+    width: 4.5em;
+}
+.navbar_compo .nav-link{
+    font-size: 1em; 
+}
+.navbar_compo .navbar_buttons{
+    display: flex; gap: 0.5em;
+}
+.navbar_compo .navbar_buttons .icon_btn{
+    font-size: 1.4em; background-color: #F5F6F8; border-radius: 50%;
+    color: #767680; border: none; height: 2em; width: 2em;
+}
+.navbar_compo .navbar_buttons .login_btn{
+    font-size: 1em; border-radius: 8px; padding: 0em 1em !important;
+}
+.navbar_compo .offcanvas .offcanvas-header{
+     border-bottom: 1px solid black;
+}
+.navbar_compo .offcanvas h1{
+    font-size: 1.3em;
+}
+.navbar_compo .offcanvas .offcanvas-body .cart_section h3{
+    font-size: 1em;
+}
+.navbar_compo .offcanvas .offcanvas-body .cart_section .item_box input{
+    width: 2.5em;
+}
+.navbar_compo .offcanvas .offcanvas-body .cart_section .item_box p{
+    font-size: 0.9em;
+}

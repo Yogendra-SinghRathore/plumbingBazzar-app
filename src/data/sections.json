@@ -1,0 +1,477 @@
+[
+  {
+    "title": "SANITARYWARE",
+    "brands": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/cera_logo_edited.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/hindware_log.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/johnson4.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/kohler_logo.jpg",
+        "offer": "Min 35% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/kerovit_logo_edited_01.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/parryware_logo_1.jpg",
+        "offer": "Upto 27% OFF"
+      }
+    ],
+    "categories": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/HINDWARE_ONE_PIECE_COMMODE1.jpg",
+        "name": "COMMODE"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/HINDWARE_COUNTER_TOP_WASH_BASIN.jpg",
+        "name": "WASH BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/HINDWARE_URINAL.jpeg",
+        "name": "URINAL & DIVISON"
+      },
+      {
+        "img": "./images/K26352IN.jpg.jpeg",
+        "name": "CONCEALED CISTERN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/CISTERN7.jpg",
+        "name": "CISTERNS"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/K-31538IN-NA_cat.jpg",
+        "name": "SOFT PRESS VALVE"
+      }
+    ],
+    "products": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/Hindware_one_piece_commode_our_product.jpg",
+        "name": "HINDWARE ONE PIECE",
+        "price": "12,081.50",
+        "prevprice": "16,550.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/hindware_cistern-removebg-preview_(1).png",
+        "name": "HINDWARE CISTERN",
+        "price": "12,081.50",
+        "prevprice": "16,550.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/hindware_con_cistern.jpg",
+        "name": "HINDWARE CONCEALED",
+        "price": "12,081.50",
+        "prevprice": "16,550.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/Hindware_one_piece_commode_our_product.jpg",
+        "name": "HINDWARE ONE PIECE",
+        "price": "12,081.50",
+        "prevprice": "16,550.00"
+      }
+    ]
+  },
+  {
+    "title": "FAUCETS",
+    "brands": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/cera_logo_edited.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/hindware_log.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/johnson4.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/kohler_logo.jpg",
+        "offer": "Min 35% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/kerovit_logo_edited_01.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/parryware_logo_1.jpg",
+        "offer": "Upto 27% OFF"
+      }
+    ],
+    "categories": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/KITCHEN_FAUCET1.jpg",
+        "name": "KITCHEN FAUCET"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/SENSOR_FAUCET.jpg",
+        "name": "SENSOR FAUCET"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/DP.jpg",
+        "name": "DIVERTER / PLATE / SPOUT"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/banner.jpg",
+        "name": "BASIN FAUCET"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/kohler_sho1.jpg",
+        "name": "SHOWER & SHOWER ARM"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/WhatsApp_Image_2023-06-30_at_12_18_09_PM.jpeg",
+        "name": "HEALTH FAUCET / JET SPRAY"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/hindware_csc_catagory.jpg",
+        "name": "CONCEALED VALVE & KIT"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/Untitled_design_(1).png",
+        "name": "BIB COCK"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/angle_valve_cat.jpg",
+        "name": "ANGLE VALVE"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/FITTINGS.jpg",
+        "name": "FITTINGS"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/kohler_bathtub_faucet.jpg",
+        "name": "BATHTUB FAUCET"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/hindware_wall_mixer-removebg-preview.png",
+        "name": "WALL MIXER"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/parryware_nozzel_tap.jpg",
+        "name": "WASHING MACHINE / GARDEN TAP"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/parryware_two_way_bib_cock.jpg",
+        "name": "TWO WAY BIB-COCK"
+      }
+    ],
+    "products": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/KB1211018.jpg",
+        "name": "KEROVIT 3 IN 1 WALL MIXER",
+        "price": "₹ 4,898.00",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/T9805A1.jpg",
+        "name": "PARRYWARE HEALTH FAUCET",
+        "price": "₹ 829.50",
+        "prevprice": "1,050.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/johnson_bath_spout.jpg",
+        "name": "JOHNSON BATHROOM BATH SPOUT",
+        "price": "₹ 1,224.50",
+        "prevprice": "1,550.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/H_our_prod_Long_body.jpg",
+        "name": "HINDWARE LONG BODY BIB COCK",
+        "price": "₹ 1,698.50",
+        "prevprice": "2,150.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/Cera_spout_our_product.jpg",
+        "name": "CERA BATH TUB SPOUT",
+        "price": "₹ 2,164.60",
+        "prevprice": "2,740.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/Cera_our_product_wall_mixer.jpg",
+        "name": "CERA 3 IN 1 WALL MIXER",
+        "price": "₹ 7,607.70",
+        "prevprice": "9,630.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/Hindware_health_faucet_our_product.png",
+        "name": "HINDWARE HEALTH FAUCET",
+        "price": "₹ 1,066.50",
+        "prevprice": "1,350.00"
+      }
+    ]
+  },
+  {
+    "title": "ACCESSORIES",
+    "brands": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/cera_logo_edited.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/hindware_log.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/johnson4.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/kohler_logo.jpg",
+        "offer": "Min 35% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/kerovit_logo_edited_01.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/parryware_logo_1.jpg",
+        "offer": "Upto 27% OFF"
+      }
+    ],
+    "categories": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/accessories_1.jpg",
+        "name": "TOWEL RING / ROD / RACK"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/SOAP_DISH.jpg",
+        "name": "SOAP DISH"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/TUMBLER_HOLDER.jpg",
+        "name": "TUMBLER HOLDER"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/robe_hook.jpg",
+        "name": "ROBE HOOK"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/SHELF.jpg",
+        "name": "SHELF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/PAPER_HOLDER.jpg",
+        "name": "PAPER HOLDER"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/SOAP_DISPENSER1.jpg",
+        "name": "SOAP DISPENSER"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/image_35.jpg",
+        "name": "GRAB BAR"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/kohler_other_accessories.jpg",
+        "name": "OTHERS"
+      }
+    ],
+    "products": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/KA920006-removebg-preview.png",
+        "name": "KEROVIT TUMBLER HOLDER",
+        "price": "₹ 800.00",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/hindware_soap_dish_holder.jpg",
+        "name": "HINDWARE SOAP DISH HOLDER",
+        "price": "₹ 1,180.00",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/2000003999_2-650x650.jpg",
+        "name": "CERA TOWEL ROD",
+        "price": "₹ 1,600.00",
+        "prevprice": "2,000.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/T3251C_1.jpg",
+        "name": "JOHNSON BATHROOMS TOWEL RING",
+        "price": "₹ 640.00",
+        "prevprice": ""
+      }
+    ]
+  },
+  {
+    "title": "KITCHEN SINKS",
+    "brands": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/Nirali_logo_edited.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/futura_logo_edited_02.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/hindware_logo_edited.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/kohler_logo.jpg",
+        "offer": "Min 35% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/kerovit_logo_edited_01.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/parryware_logo_1.jpg",
+        "offer": "Upto 27% OFF"
+      }
+    ],
+    "categories": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/SINGLE_BOWL_SINK.jpg",
+        "name": "SINGLE BOWL"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/MULTIPLE_BOWL_SINK.jpg",
+        "name": "MULTIPLE BOWL"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/MODULER_SINK.jpg",
+        "name": "MODULAR SINK"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2023/Drain_Board_Sink1.jpg",
+        "name": "DRAINBOARD SINK"
+      }
+    ],
+    "products": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/marino_neo_kitchen_sink.jpg",
+        "name": "HINDWARE DRAINBOARD SINK",
+        "price": "₹ 14,105.70",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/futura_rainfall_kitchen_sink_1.jpg",
+        "name": "FUTURA RAINFALL KITCHEN SINK",
+        "price": "₹ 27,625.00",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/marino_neo_kitchen_sink.jpg",
+        "name": "HINDWARE DRAINBOARD SINK",
+        "price": "₹ 14,105.70",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2024/futura_rainfall_kitchen_sink_1.jpg",
+        "name": "FUTURA RAINFALL KITCHEN SINK",
+        "price": "₹ 27,625.00",
+        "prevprice": ""
+      }
+    ]
+  },
+  {
+    "title": "DESIGNER BASIN & MIRROR",
+    "brands": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/Capital_mirror_logo.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/medef_logo.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/Capital_mirror_logo.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/medef_logo.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/Capital_mirror_logo.jpg",
+        "offer": "Upto 27% OFF"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/medef_logo.jpg",
+        "offer": "Upto 27% OFF"
+      }
+    ],
+    "categories": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/Capital_mirror.jpg",
+        "name": "PRIMIUM LED MIRROR"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/lux_image_1.jpg",
+        "name": "LUXURY LED MIRROR"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/459328846_1547514189536478_580035177510207627_n1.jpg",
+        "name": "ROUND BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/rectangle_basin_medef1.jpg",
+        "name": "RECTANGLE BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/466131692_1078791157125632_5952478738147266914_n1.jpg",
+        "name": "OVAL BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/459258428_832537618861339_4067299747192049535_n1.jpg",
+        "name": "BOWL BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/466370988_911431713854846_1009344886054201399_n1.jpg",
+        "name": "TEXTURE BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/medef_catagory_image.jpg",
+        "name": "FREE STANDING BASIN"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/MIRROR_WITHOUT_FRAME_1_1.png",
+        "name": "HD LED MIRROR"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/HD_MIRROR_WITH_FRAME.png",
+        "name": "HD LED MIRROR WITH FRAME"
+      }
+    ],
+    "products": [
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/KMC-102C04.jpeg",
+        "name": "MEDEF ROUND DESIGNER BASIN",
+        "price": "₹ 15,130.00",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/KMC-108CO2.jpg",
+        "name": "MEDEF DESINGER BASIN",
+        "price": "₹ 15,130.00",
+        "prevprice": ""
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/CLM-13.png",
+        "name": "CLM-13 | RECTANGULAR",
+        "price": "₹ 9,152.00",
+        "prevprice": "11,440.00"
+      },
+      {
+        "img": "https://plumbingbazzar.com/uploads/media/2025/CGLED-010_FRONT.jpg",
+        "name": "CGLED-010 | CGLED-026 | ROUND",
+        "price": "₹ 8,047.20",
+        "prevprice": "11,496.00"
+      }
+    ]
+  }
+]

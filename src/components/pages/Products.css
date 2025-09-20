@@ -1,0 +1,67 @@
+
+.product_row .product_box {
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.product_row .product_box .product_top_box {
+  position: relative;
+  display: inline-block;
+}
+
+.product_row .product_box img {
+  height: 11em;
+  width: 20em;
+  object-fit: cover;
+}
+
+.product_row .product_box .badge1 {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  font-size: 1.3em;
+  font-weight: 400;
+  padding: 0.5em 0.4em;
+}
+.product_row .product_box .badge2 {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background-color: white;
+  color: red;
+  border-radius: 50%;
+  font-size: 1.5em;
+  font-weight: 500;
+  padding: 0.4em 0.4em;
+}
+.product_row .product_box h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.product_row .product_box p {
+  font-size: 1em;
+}
+.product_row .product_box .price {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: green;
+}
+.product_row .product_box .prevprice {
+  font-size: 1em;
+  text-decoration: line-through;
+}
+
+.product_row .product_box button {
+  font-size: 1em;
+  margin: 0 1.5em;
+}

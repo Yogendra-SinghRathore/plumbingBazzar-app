@@ -1,0 +1,15 @@
+.footer_section{
+    background-color: #151414; color: white; padding: 2em 1em;
+}
+.footer_section .box_1 .footer_logo{
+    width: 6.2em;
+}
+.footer_section .box_2 .bar{
+    border: 0.1px solid gray;
+}
+.footer_section .follow_us_box img{
+    height: 2.5em; border-radius: 50%;
+}
+.footer_section .box_2 .link_icon{
+    background-color: #313131; padding: 0.6em 0.7em;
+}

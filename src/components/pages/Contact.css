@@ -1,0 +1,10 @@
+.contact_section{
+    margin-top: 5.2em;
+}
+.contact_section .catagory_detail{
+    background-color: #F2F2F2;
+    padding: 1em; 
+}
+.contact_section .catagory_detail h1{
+    font-size: 2em;
+}

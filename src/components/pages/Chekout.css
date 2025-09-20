@@ -1,0 +1,72 @@
+.chekout_section{
+    margin-top: 5.2em;
+}
+.chekout_section .catagory_detail{
+    background-color: #F2F2F2;
+    padding: 1em; 
+}
+
+.chekout_section .billing_details{
+    display: flex; flex-direction: column; gap: 1em; padding: 1.5em 2em; border-radius: 20px;
+    border: 1px solid #00AEEF; border-style: dashed;
+}
+
+.chekout_section .catagory_detail h1{
+    font-size: 2.2em;
+}
+.chekout_section .billing_details h2{
+    font-size: 1.3em; font-weight: 400; 
+    border-bottom: 1px solid gray; padding-bottom: 0.6em;
+}
+.chekout_section .billing_details h3{
+    font-size: 1.2em; font-weight: 500;
+}
+.chekout_section .billing_details .box{
+    display: flex; flex-direction: column;
+}
+.chekout_section .billing_details .box1 img{
+    height: 30px;
+}
+.chekout_section .billing_details .box1 p{
+    display: flex; gap: 0.5em;
+}
+.chekout_section .billing_details .box1 span{
+    font-size: 0.75em;
+}
+.chekout_section .order_summary{
+    display: flex; flex-direction: column; gap: 1em; padding: 1.5em 2em; border-radius: 20px;
+    border: 1px solid #00AEEF; border-style: dashed;
+    background-color: #F2F2F2;
+}
+.chekout_section .order_summary h2{
+    font-size: 1.3em; font-weight: 400; 
+    border-bottom: 1px solid gray; padding-bottom: 0.6em;
+}
+.chekout_section .order_summary h3{
+    font-size: 1.2em; color: gray;
+}
+.chekout_section .order_summary .product_box{
+    display: flex; gap: 1.5em; border-bottom: 1px solid gray; padding-bottom: 1em;
+}
+.chekout_section .order_summary .product_box img{
+    height: 70px;
+}
+.chekout_section .order_summary .product_box h4{
+    font-size: 1em;
+}
+.chekout_section .order_summary .product_box .price{
+    color: #3DBE16; font-weight: 500;
+}
+.chekout_section .order_summary .total_list li{
+    display: flex; justify-content: space-between; padding: 1em 0;
+    border-top: 1px solid gray;
+}
+.chekout_section .order_summary .total_list .final_price{
+    padding-bottom: 0;
+}
+.chekout_section .order_summary .total_list .final_price .total_text{
+    color: #E43F52; font-weight: 500; font-size: 1.2em;
+}
+.chekout_section .order_summary .total_list .final_price .total_price{
+    color: #3DBE16; font-weight: 500; font-size: 1.2em;
+}

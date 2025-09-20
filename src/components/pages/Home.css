@@ -1,0 +1,215 @@
+.main_container {
+  margin-top: 6em;
+}
+.main_container .sanitaryware_section .section_title, .catagory_title, .products_title{
+  font-size: 2em;
+}
+.main_container .sanitaryware_section .catagory_title, .products_title{
+  font-size: 1.3em;
+}
+.home_video video{
+  border-radius: 20px; height: 28em; object-fit: cover;
+}
+.sanitaryware_section .brand_box {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 10em;
+  padding: 1.5em 0em;
+  box-sizing: border-box;
+}
+.sanitaryware_section .brands_row .brand_static_box{
+  border: 1px solid black; width: 28%; display: flex; align-items: center; justify-content: center;
+  font-size: 2.5em; font-weight: 600; color: #EE4D4D;
+}
+.sanitaryware_section .brand_box img {
+  width: 70%;
+  max-width: 300px; 
+  object-fit: contain;
+}
+.sanitaryware_section .brand_box .brand_offer {
+  background-color: rgb(238, 77, 77);
+  color: white;
+  padding: 0.3em 0.5em;
+  font-size: 0.8em;
+  font-weight: 500;
+  border-radius: 25px;
+  text-align: center;
+}
+.sanitaryware_section .swiper-slide {
+  display: flex;
+  justify-content: center;
+}
+.catagory_row .catagory_box {
+  display: flex;
+  flex-direction: column;
+  font-size: 1em;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sanitaryware_section .most_liked_products .product_box {
+  border: 1px solid gray;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.sanitaryware_section .most_liked_products .product_top_box {
+  position: relative;
+  display: inline-block;
+}
+
+.sanitaryware_section .most_liked_products img {
+  height: 11em;
+  width: 20em;
+  object-fit: cover;
+}
+
+.sanitaryware_section .most_liked_products .product_box .badge1 {
+  position: absolute;
+  top: 0;
+  border-radius: 0;
+  left: 0;
+  background-color: black;
+  color: white;
+  font-size: 1.3em;
+  font-weight: 400;
+  padding: 0.5em 0.4em;
+}
+.sanitaryware_section .most_liked_products .product_box .badge2 {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background-color: white;
+  color: red;
+  border-radius: 50%;
+  font-size: 1.5em;
+  font-weight: 500;
+  padding: 0.4em 0.4em;
+}
+.sanitaryware_section .most_liked_products .product_box h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.sanitaryware_section .most_liked_products .product_box p {
+  font-size: 1em;
+}
+.sanitaryware_section .most_liked_products .product_box .price {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: green;
+}
+.sanitaryware_section .most_liked_products .product_box .prevprice {
+  font-size: 1em;
+  text-decoration: line-through;
+}
+
+.sanitaryware_section .most_liked_products .product_box button {
+  font-size: 1em;
+  margin: 0 1.5em;
+}
+
+
+.testimonial_section {
+  background-color: #f9f9f9;
+}
+
+.testimonial_section_content h1{
+  font-size: 2em;
+}
+.testimonial_section_content .testimonial_box {
+  position: relative; margin: 0.5em;
+  overflow: visible; height: 23em;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  font-size: 1em;
+  font-weight: 700;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+}
+.testimonial_section_content .testimonial_box .top_box {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 100%; height: 13em;
+  padding: 0 1em; padding-top: 0.5em;
+}
+.testimonial_section_content .testimonial_box img{
+  position: absolute;
+  top: 170px;
+  height: 4.5em; width: 4.5em;
+  border: 1px solid black;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.testimonial_section_content .testimonial_box span{
+    font-size: 1rem;
+}   
+.testimonial_section_content .testimonial_box h3{
+    font-size: 1.2em; font-weight: 700;
+}
+
+.blog_section{
+  background-color: #f9f9f9;
+}
+.blog_section .blog_section_content h1{
+  font-size: 2em;
+}
+.blog_section .blog_section_content .blog_box{
+  display: flex; flex-direction: column; gap: 0.8em; border: 1px solid black;
+  padding: 1em; height: 18.5em;
+}
+.blog_section .blog_section_content .blog_box h3{
+  font-size: 1.1em; font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.blog_section .blog_section_content .blog_box img{
+  height: 9em; object-fit: cover;
+}
+.blog_section .blog_section_content .blog_box p{
+  font-size: 0.8em; font-weight: 500;
+  display: -webkit-box;           /* enables flexbox for text */
+  -webkit-box-orient: vertical;   /* vertical text flow */
+  -webkit-line-clamp: 3; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.home_last_image{
+  background: linear-gradient(rgb(0 0 0 / 79%), rgb(0 0 0 / 79%)), url("./images/interior-modern.png");
+  background-size: cover; background-repeat: no-repeat; background-position: center;
+  display: flex; align-items: center; justify-content: center; padding: 1em 2em; gap: 1em;
+}
+.home_last_image .left_box{
+  width: 30%;
+}
+.home_last_image .right_box{
+  width: 70%;
+}
+.home_last_image .plumber_image {
+  width: 100%;
+}
+.home_last_image .right_box h1{
+  color: white; font-size: 3.5em;
+}
+.home_last_image .right_box h2{
+  color: #00AEEF; font-size: 3em;
+}
+.home_last_image .right_box p{
+  color: white; font-size: 1.3em;
+}
+.home_last_image .right_box .store_image{
+  width: 12em;
+}
