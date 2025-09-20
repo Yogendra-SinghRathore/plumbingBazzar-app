@@ -205,7 +205,7 @@ const Home = () => {
             alt=""
           />
         </div>
-        <div className="right_box d-flex flex-xl-column align-items-center text-center">
+        <div className="right_box d-flex flex-column align-items-center text-center">
           <h1>Plumbing Bazzar</h1>
           <h2>Affordable Ecommerce Platform For Your All Sanitary Needs</h2>
           <p>

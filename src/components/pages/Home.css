@@ -191,6 +191,7 @@
   background: linear-gradient(rgb(0 0 0 / 79%), rgb(0 0 0 / 79%)), url("./images/interior-modern.png");
   background-size: cover; background-repeat: no-repeat; background-position: center;
   display: flex; align-items: center; justify-content: center; padding: 1em 2em; gap: 1em;
+  width: 100%;
 }
 .home_last_image .left_box{
   width: 30%;
@@ -212,4 +213,9 @@
 }
 .home_last_image .right_box .store_image{
   width: 12em;
+}
+@media (max-width:1250px) {
+  .home_last_image{
+    flex-direction: column;
+  }
 }
